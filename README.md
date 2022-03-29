@@ -1,6 +1,6 @@
 # certificates
 
-GIT couse certificate-
+GIT couse certificate-https://github.com/REDDY-TEJA-SRINIVAS/certificates/blob/main/GIT%20COURSE%20CERTIFICATE.pdf
 
 C couse certificate-https://github.com/REDDY-TEJA-SRINIVAS/certificates/blob/main/c%20course%20certificate.pdf
 
